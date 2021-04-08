@@ -3,4 +3,4 @@ Download dataset from the Kaggle where dataset have 4 class so i converted into 
 
 Dataset Link:https://www.kaggle.com/tourist55/alzheimers-dataset-4-class-of-images?select=Alzheimer_s+Dataset
 
-i use Densenet169 tranfer lerning model and achieve accuracy 97.13%
+i use Densenet169 tranfer lerning model and achieve accuracy 97.31%
